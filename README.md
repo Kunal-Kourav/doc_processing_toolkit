@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/18F/doc_processing_toolkit/badge.png)](https://coveralls.io/r/18F/doc_processing_toolkit)
 
 ##### About
-Python library to extract text from any file type compatiable with [TIKA](http://tika.apache.org/). It defaults to OCR when text extraction of a PDF file fails.
+Python library to extract text from any file type compatiable with [TIKA](http://tika.apache.org/). It defaults to OCR when text extraction of a PDF file fails. There are various installation as well as usage instructions given below , through which you may understand more clearly.
 
 ##### Dependencies
 - [Apache Tika](http://tika.apache.org/)
